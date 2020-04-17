@@ -1,0 +1,33 @@
+body{
+	text-align: center;
+	background: #add8e6;
+}
+
+span {
+	border-style: groove;
+	padding:5px;
+	text-decoration: none;
+}
+
+span:hover{
+	color: #C0C0C0;
+}
+
+link{
+	border: 10px;
+}
+
+img{
+	width: 300px;
+	border: 20px;
+}
+
+img:hover{
+	width: 500px;
+	border: 20px;
+	border-radius: 50px;
+}
+
+button:hover{
+	width: 90px;
+}
